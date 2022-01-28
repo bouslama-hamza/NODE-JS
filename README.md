@@ -15,7 +15,7 @@
   <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - JavaScript Style Guide"></a>
 </p>
 
-## JavaScript style guide, linter, and formatter
+## Node.Js style guide, linter, and formatter
 
 Here you gonna get a full guide to use the Node Js in Backend System
 
