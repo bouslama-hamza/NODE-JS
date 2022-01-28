@@ -1,0 +1,13 @@
+<%- include('./partials/head.ejs') %>
+<%- include('./partials/nav.ejs') %>
+
+    <h1>THIS IS JUST THE CONTACT PAGE</h1>
+
+    <!-- some forms -->
+    <form action="/contact" method="POST">
+        <input type="text" placeholder="USERNAME" name="username" required><br>
+        <input type="password" placeholder="PASSWORD" name="password" required><br>
+        <input type="submit" value="Send">
+    </form>
+
+<%- include('./partials/footer.ejs') %>
